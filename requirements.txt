@@ -1,0 +1,11 @@
+flask
+flask-restful
+flask-sqlalchemy
+Flask-Migrate
+flask-marshmallow
+marshmallow-sqlalchemy
+
+# se deben ejecutar los siguientes comandos en consola
+# $env:FLASK_APP="entrypoint:app"
+# $env:FLASK_ENV="development"
+# $env:APP_SETTINGS_MODULE="config.default"
